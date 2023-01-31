@@ -1,6 +1,6 @@
-								Hola 👋 Soy René Valderrey
+	Hola 👋 Soy René Valderrey
 _________________________________________________________________________________________________________________________________________________________________
-                                                             Full Stack Web Developer
+	Full Stack Web Developer
 
 Siempre he sido amante de la tecnología como hobby hasta que tomé la decisión de estudiar algo referente a ello. Así fue como conocí la programación y la verdad estoy encantado.
 
